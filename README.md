@@ -9,6 +9,24 @@ no upload: your model never leaves your machine.
 
 ![demo](docs/screenshot.png)
 
+## Use it as a Claude skill
+
+Install once, then just ask.
+
+**Claude Code:**
+
+```bash
+git clone https://github.com/Felixx1502/sheet-happens ~/.claude/skills/sheet-happens
+```
+
+**Claude Desktop / Cowork:** download `sheet-happens.skill` from the
+[Releases](https://github.com/Felixx1502/sheet-happens/releases) page,
+open it, hit "Save skill".
+
+Then type **`/sheet-happens`** in any chat, or simply say *"map this Excel
+model"* and point Claude at your .xlsx. Claude runs the pipeline locally and
+hands back one interactive HTML file. No API keys, no upload, no setup.
+
 ## Why
 
 Every inherited model is a black box: 30 tabs, 30,000 formulas, no
