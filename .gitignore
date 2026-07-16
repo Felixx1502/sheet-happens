@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+# NEVER commit maps or models of real clients — demo/ contains synthetic data only
+*.xlsx
+*.xlsm
+!demo/DemoCo_model.xlsx
+*Model Map*.html
+!demo/DemoCo_map.html

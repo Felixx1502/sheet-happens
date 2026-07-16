@@ -1,0 +1,6 @@
+This project bundles the following third-party software:
+
+cytoscape.js (assets/cytoscape.min.js)
+  Copyright (c) 2016-2024, The Cytoscape Consortium
+  Licensed under the MIT License — https://js.cytoscape.org/
+  The full license text is preserved in the header of the bundled file.

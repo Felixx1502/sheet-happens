@@ -1,0 +1,15 @@
+{
+  "_comment": "Pin block boundaries per sheet: [start_row, 'Block name']. Sheets not listed keep auto-detection.",
+  "P&L": [
+    [1, "Revenue"],
+    [23, "COGS"],
+    [30, "Gross profit"],
+    [42, "SG&A"],
+    [56, "Operating profit"],
+    [68, "Below the line"]
+  ],
+  "Debt Schedule": [
+    [1, "Opening & drawdowns"],
+    [12, "Repayments & interest"]
+  ]
+}
